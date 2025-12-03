@@ -84,7 +84,7 @@ I am a **Software Engineering** student at **[African Leadership University](htt
 <a href="mailto:henrychrisp23@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
-<a href="https://henryparfait.github.io/Responsive_Web_Design/" target="_blank">
+<a href="https://henryparfait.github.io/portfolio/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Website">
 </a>
 
