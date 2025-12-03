@@ -65,14 +65,10 @@ I am a **Software Engineering** student at **[African Leadership University](htt
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 Coding Streak
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=henryparfait&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henryparfait&layout=compact&theme=tokyonight)
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=henryparfait&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
