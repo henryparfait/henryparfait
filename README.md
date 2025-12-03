@@ -18,9 +18,9 @@
 
 I am a **Software Engineering** student at **[African Leadership University](https://alueducation.com)**, driven by the intersection of **Artificial Intelligence** and **Healthcare**. My mission is to build scalable, accessible digital infrastructure that solves real-world problems in Rwanda and beyond.
 
-- 🔭 **Currently working on:** `Rwanda Cancer Relief` (Connecting patients to care).
+- 🔭 **Currently working on:** `Rwanda Cancer Relief` (project Connecting cancer patients to care).
 - 🌱 **Deepening my knowledge in:** AI Integration, PostgreSQL, and Cloud Architecture.
-- 💼 **Experience:** Software Developer Intern at **Algorithm Inc.**
+- 💼 **Experience:** Software Developer Intern at **Rwanda Cancer Relief.**
 - 👯 **Open to collaboration on:** Open-source HealthTech & EdTech projects.
 - ⚡ **Fun fact:** I brew strong coffee ☕ and debug even stronger code.
 
