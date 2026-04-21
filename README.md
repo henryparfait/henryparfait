@@ -22,11 +22,9 @@ I'm a final-year **Software Engineering** student at the **[African Leadership U
 
 > **Closing the diagnostic gap in African healthcare** — building AI and software tools that help ordinary Africans find out what's wrong in time to do something about it.
 
-Everything I work on — my coursework, my capstone, the companies I want to join, the things I publish — points at that mission.
-
-- 🏥 **Current internship:** Software Developer at **Rwanda Cancer Relief**, building tools that connect cancer patients with counselors and care.
-- 🎯 **Final-year capstone (in planning):** An AI-powered cervical cancer screening assistant for community health workers in Rwanda — mobile-first, offline-capable, Kinyarwanda-aware.
-- 🎓 **Next step:** Applying to **Carnegie Mellon University Africa — MSc in Engineering Artificial Intelligence**.
+- 🏥 **Previous internship:** Software Developer at **Rwanda Cancer Relief**, building tools that connect cancer patients with counselors and care.
+- 🎯 **Final-year focus:** Bringing AI to diagnostic challenges in African healthcare — the specific problem and scope are shaping up now, in consultation with clinicians and mentors.
+- 🎓 **Exploring next:** Graduate studies in AI, with **CMU-Africa's MSc in Engineering AI** as a leading interest.
 - 🌍 **Long game:** Contribute meaningfully to African health-tech as a builder, engineer, and eventually founder.
 
 ---
@@ -36,7 +34,7 @@ Everything I work on — my coursework, my capstone, the companies I want to joi
 | Focus | What it means |
 | :--- | :--- |
 | **ML foundations** | Deepening classical ML and deep learning through Kaggle competitions, fast.ai's Practical Deep Learning, and Andrej Karpathy's Neural Networks: Zero to Hero. |
-| **Capstone groundwork** | Reading cervical cancer AI literature, building early prototypes, connecting with clinicians and community health workers. |
+| **Capstone groundwork** | Reading cancer literature, building early prototypes, connecting with clinicians and community health workers. |
 | **Engineering craft** | Writing cleaner Python, better Git hygiene, real tests, proper deployment. Treating ML code like production software. |
 
 I publish what I learn as I go — expect more ML-focused repositories here over the coming year.
